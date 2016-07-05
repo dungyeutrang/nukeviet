@@ -1,0 +1,25 @@
+.banner{
+    height: 118px;
+    background: #ececec;
+}
+.banner .navbar-nav > li > a,.banner .navbar-header > a{
+    line-height: 100px;
+    font-size: 16px;
+    color: #656464;
+    text-decoration: none;
+    padding: 0 15px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    line-height: 114px;
+    font-weight: 400;
+    position: relative;
+    z-index: 3;
+    float: left;
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+    font-weight: bold;
+}
+.banner .navbar-nav > li > a:hover{
+    border-top: 3px solid #9b59b6;
+    background: white;
+}

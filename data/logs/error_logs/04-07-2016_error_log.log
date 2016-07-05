@@ -1,0 +1,6 @@
+[Mon, 04 Jul 2016 20:44:42 +0700] [Array] [User Error(256): Error! Does not exist themes default] [FILE: /index.php] [LINE: 192]
+[Mon, 04 Jul 2016 20:51:37 +0700] [Array] [Warning(2): simplexml_load_file(): E:/xampp/htdocs/nukeviet/themes/default/config.ini:1: parser error : Document is empty] [FILE: /index.php] [LINE: 225]
+[Mon, 04 Jul 2016 20:51:37 +0700] [Array] [Warning(2): Invalid argument supplied for foreach()] [FILE: /includes/core/user_functions.php] [LINE: 58]
+[Mon, 04 Jul 2016 20:51:37 +0700] [Array] [Notice(8): Undefined offset: 1] [FILE: /includes/cronjobs/error_log_destroy.php] [LINE: 80]
+[Mon, 04 Jul 2016 21:04:28 +0700] [Array] [Notice(8): Constant NV_IS_GZIP already defined] [FILE: /includes/header.php] [LINE: 24]
+[Mon, 04 Jul 2016 21:09:01 +0700] [Array] [Notice(8): Undefined index: theme_type] [FILE: /includes/mainfile.php] [LINE: 332]
